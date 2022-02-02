@@ -1,7 +1,9 @@
-# blango
+# Blango Blog
+A Social App for Blogging. 
 
-Starting point for the Advanced Django course. This is the equivalent of the following command:
-
-```bash
-$ django-admin.py startproject blango
-```
+## Features
+* Log in with Google
+* Custom User Model 
+* Custom Authentication 
+* Updated Security, password hashing and salting.
+* Bootstrap5
